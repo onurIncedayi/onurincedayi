@@ -11,16 +11,16 @@
 
 Skills: Java Core/Selenium/Cucumber/TestNG/mySQL Maven/JDBC/Postman/Rest Assured/Jenkins
 
-### Connect with me 
+<h3 align="left" </a> Connect with me </h3> 
 
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="30" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" align="center" />][linkedin]
+[<img  width="30" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" align="center" />][mail]
 
-
+[mail]: mailto:onurincedayi7@gmail.com
 [linkedin]: https://www.linkedin.com/in/onurincedayi
-<br />
-                                                                                                             
 
+                                                                                                             
                                                                                                                  
 <img src="https://user-images.githubusercontent.com/103858540/194760331-56114638-c2af-4c14-a142-da2b19c04fe1.png"  align="right" width="45" height=45>
 <img src="https://user-images.githubusercontent.com/103858540/194760213-70c308c0-bc81-4ca9-8eb9-241c4ee940f9.png"  align="right" width="45" height=45>
