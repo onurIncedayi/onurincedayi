@@ -31,7 +31,8 @@ Skills: Java Core/Selenium/Cucumber/TestNG/mySQL Maven/JDBC/Postman/Rest Assured
 <img src="https://user-images.githubusercontent.com/103858540/194760021-980d3722-62f6-475f-874a-5e90d8ffb27f.png"  align="right" width="55" height=45>
 <img src="https://user-images.githubusercontent.com/103858540/194760018-93d8b1dc-8690-49b1-a933-0beaa559e7fc.png"  align="right" width="55" height=45>
 <img src="https://user-images.githubusercontent.com/103858540/194759969-527c525d-45a9-424e-bc89-14764f698ca4.png"  align="right" width="55" height=45>
-
+<br />
+<br />
 <details>
  <summarty>:bulb: Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=onurIncedayi&theme=radical)">
