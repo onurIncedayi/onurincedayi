@@ -9,17 +9,17 @@
 
 #A QA Automation Tester, who tries to keep himself up-to-date in the field of software, takes part in the quality management processes of applications that greatly facilitate our lives, and through which aims to contribute to the creation of high quality products, and enjoys learning new tools and languages.
 
+Skills: Java Core/Selenium/Cucumber/TestNG/mySQL Maven/JDBC/Postman/Rest Assured/Jenkins
+
 ### Connect with me 
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/#EA4335.svg" align="left" />][email]
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
 
-
-[email]: onurincedayi7@gmail.com
 [linkedin]: https://www.linkedin.com/in/onurincedayi
 <br />
-                                                                                                             #Skills
+                                                                                                             
 
                                                                                                                  
 <img src="https://user-images.githubusercontent.com/103858540/194760331-56114638-c2af-4c14-a142-da2b19c04fe1.png"  align="right" width="55" height=45>
@@ -37,11 +37,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=onurIncedayi&theme=radical)">
  </details>
  
- <details>
- <summarty>:bulb: Most Used Languages</summary>
- <img src="[https://github-readme-stats.vercel.app/api?username=onurIncedayi&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=onurIncedayi&layout=compact)">
- </details>
-
+ 
 
 
 
