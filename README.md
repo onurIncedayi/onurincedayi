@@ -9,8 +9,40 @@
 
 #A QA Automation Tester, who tries to keep himself up-to-date in the field of software, takes part in the quality management processes of applications that greatly facilitate our lives, and through which aims to contribute to the creation of high quality products, and enjoys learning new tools and languages.
 
+### Connect with me 
 
-<img alt="Email" src="https://camo.githubusercontent.com/6ba81d02e839e20d3d142a9c1d400e732b09bb23b37f300f7de74a8a90e0f770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d6164656d617469636973343140676d61696c2e636f6d2d626c75653f7374796c653d666c6174266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/Email-onurincedayi7@gmail.com-blue?style=flat&amp;logo=gmail" style="max-width: 100%;">
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/#EA4335.svg" align="left" />][email]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+
+
+
+[email]: onurincedayi7@gmail.com
+[linkedin]: https://www.linkedin.com/in/onurincedayi
+<br />
+                                                                                                             #Skills
+
+                                                                                                                 
+<img src="https://user-images.githubusercontent.com/103858540/194760331-56114638-c2af-4c14-a142-da2b19c04fe1.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760213-70c308c0-bc81-4ca9-8eb9-241c4ee940f9.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760207-cadf437c-5fe2-421a-8131-eab0a256f29c.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760206-1fd012a2-af22-4457-a676-e261f4a95356.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760171-df329be9-cacc-4b90-a03c-fbf650ff30ae.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760022-7c0dbe5c-dc88-40f4-af64-d29e102388a6.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760021-980d3722-62f6-475f-874a-5e90d8ffb27f.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194760018-93d8b1dc-8690-49b1-a933-0beaa559e7fc.png"  align="right" width="55" height=45>
+<img src="https://user-images.githubusercontent.com/103858540/194759969-527c525d-45a9-424e-bc89-14764f698ca4.png"  align="right" width="55" height=45>
+
+<details>
+ <summarty>:bulb: Github Stats</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=onurIncedayi&theme=radical)">
+ </details>
+ 
+ <details>
+ <summarty>:bulb: Most Used Languages</summary>
+ <img src="[https://github-readme-stats.vercel.app/api?username=onurIncedayi&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=onurIncedayi&layout=compact)">
+ </details>
+
+
 
 
 
