@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi there 👋, I'am Onur
 
-<!--
-**onurIncedayi/onurincedayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Test Automation Engineer, who tries to keep himself up-to-date in the field of software, takes part in the quality management processes of applications that greatly facilitate our lives, and through which aims to contribute to the creation of high quality products, and enjoys learning new tools and languages.
 
-Here are some ideas to get you started:
+Skills: Java Core/Selenium/Cucumber/TestNG/mySQL Maven/JDBC/Postman/Rest Assured/Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Mersys
+🌱 I’m currently learning QA technologies
+💬 Ask me about Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
