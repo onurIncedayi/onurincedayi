@@ -12,6 +12,7 @@ Skills: Java Core/Selenium/Cucumber/TestNG/mySQL Maven/JDBC/Postman/Rest Assured
 
 
 
+![image](https://user-images.githubusercontent.com/108151328/196037575-f078a44c-2747-4c2f-92d0-d5a9fbb46601.png)
 
 
 
