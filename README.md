@@ -1,4 +1,4 @@
-<img src= "[https://giphy.com/embed/xRDJZ3lcY7HocuN4oU](https://media3.giphy.com/media/xRDJZ3lcY7HocuN4oU/giphy.gif?cid=790b7611a2965c9033ed2bb6b5cb72e1d62266f2646e4648&rid=giphy.gif&ct=g)"
+<img src= "https://media3.giphy.com/media/xRDJZ3lcY7HocuN4oU/giphy.gif?cid=790b7611a2965c9033ed2bb6b5cb72e1d62266f2646e4648&rid=giphy.gif&ct=g"
  align="right" width="400" height="220">
  
 
@@ -35,6 +35,7 @@ Java Core/Selenium/Cucumber/TestNG/mySQL Maven/JDBC/Postman/Rest Assured/Jenkins
 <img src="https://user-images.githubusercontent.com/103858540/194760021-980d3722-62f6-475f-874a-5e90d8ffb27f.png"  align="right" width="45" height=45>
 <img src="https://user-images.githubusercontent.com/103858540/194760018-93d8b1dc-8690-49b1-a933-0beaa559e7fc.png"  align="right" width="45" height=45>
 <img src="https://user-images.githubusercontent.com/103858540/194759969-527c525d-45a9-424e-bc89-14764f698ca4.png"  align="right" width="45" height=45>
+<img src="https://camo.githubusercontent.com/9f7002fa85f5bc686e82076e686b18b1b56835800059e455b9f913a091d9083c/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"  align="right" width="45" height=45>
 <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"  align="right" width="45" height=45>
 <br />
 <br />
